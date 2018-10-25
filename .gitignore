@@ -1,0 +1,78 @@
+*.zip
+*.h5
+*.csv
+*.gz
+*.mp4
+*.srt
+*.hdf5
+*.pickle
+
+deep_learning/lesson_2/notMNIST_large/
+deep_learning_nanodegree/course_3_covnets/lesson_7_covnet_project/lfw/__MACOSX/lfw/
+deep_learning_nanodegree/course_5_gans/lesson_3_face_generation_project/data/
+deep_learning_nanodegree/course_5_gans/lesson_4_semi_supervised_learning/images/
+deep_learning_nanodegree/course_5_gans/lesson_1_gans/MNIST_data/
+deep_learning_nanodegree/course_3_covnets/lesson_7_covnet_project/lfw/
+deep_learning_nanodegree/course_3_covnets/lesson_7_covnet_project/dogImages/
+deep_learning_nanodegree/course_3_covnets/lesson_6_transfer_learning/flower_photos/
+deep_learning/lesson_2/notMNIST_small/
+deep_learning_nanodegree/course_3_covnets/lesson_7_covnet_project/images/
+deep_learning_nanodegree/course_1_intro_to_deep_learning/fast-style-transfer-master/
+
+*checkpoints*
+*logs*
+*data*
+*tensorboard*
+*ckpt*
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
